@@ -1,0 +1,7 @@
+An API (Application Programming Interface) is just a Python program running on a server that listens for requests over the internet.
+
+When a user inputs 92.5 Percentile
+and GOPENS Category on your website,
+ frontend sends a web request to your Python server.
+
+Python queries your database (cet_predictor.db) and sends back a JSON response containing the matching colleges.
